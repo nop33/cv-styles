@@ -1,0 +1,19 @@
+{
+  "name": "cv-styles",
+  "version": "0.0.0",
+  "homepage": "https://github.com/nop33/cv-styles",
+  "author": {
+    "name": "Ilias Trichopoulos",
+    "url": "https://ilias.website"
+  },
+  "description": "The styles of my CV project",
+  "main": "index.scss",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nop33/cv-styles.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nop33/cv-styles/issues"
+  },
+}
